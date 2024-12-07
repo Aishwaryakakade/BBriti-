@@ -81,7 +81,7 @@ const Contact = () => {
     if (Object.keys(errors).length === 0 && submitting) {
       finishSubmit();
     }
-  }, [errors, submitting]);
+  }, [errors, submitting, finishSubmit]);
 
   return (
     <>
