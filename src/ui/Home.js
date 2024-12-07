@@ -5,7 +5,7 @@ import Carousel from "../components/Carousel";
 import ClientList from "../components/ClientList";
 import Facts from "../components/Facts";
 import ServiceList from "../components/ServiceList";
-import Revenue from "../components/Revenue";
+// import Revenue from "../components/Revenue";
 
 const Home = () => {
   return (
