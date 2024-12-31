@@ -8,7 +8,6 @@ const ServiceList = () => {
         <div className="container" data-aos="fade-up">
           <div className="section-header">
             <h2>What we do? </h2>
-            <h6>(paragraph starting from "Lorem ipsum" needs right conten)</h6>
             <p>
               We focus on Business Growth as a Service provides tailored
               solutions to accelerate your business success, from strategic

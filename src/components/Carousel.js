@@ -49,7 +49,7 @@ const Carousel = () => {
                 >
                   {" "}
                   <i className="bi bi-play-circle-fill"></i>
-                  <span>Watch Intro (if needed gotta make a video)</span>
+                  <span>Watch Intro</span>
                 </span>
               </div>
             </div>

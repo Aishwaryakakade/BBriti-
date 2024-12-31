@@ -2,8 +2,8 @@ import React from "react";
 import AOS from "aos";
 import "../../node_modules/aos/dist/aos.css";
 import about_img from "../img/about-image.jpg";
-import manag_photo1 from "../img/team/download.jpeg";
-import manag_photo2 from "../img/team/no-image.jpg";
+import manag_photo1 from "../img/team/person1.jpg";
+import manag_photo2 from "../img/team/person1.jpg";
 import InnerHeaderBanner from "../components/InnerHeaderBanner";
 import InnerHeader from "../components/InnerHeader";
 import Footer from "../components/Footer";
@@ -187,7 +187,7 @@ const About = () => {
                     <Link to="/">
                       <i className="bi bi-twitter"></i>
                     </Link>
-                    <Link to="https://www.linkedin.com/in/arjuna-v-gujjar-016506b8">
+                    <Link to="https://www.linkedin.com/in/aishwarya-lk-03807914b/">
                       {" "}
                       <i className="bi bi-linkedin"></i>{" "}
                     </Link>
@@ -215,7 +215,7 @@ const About = () => {
                     <Link to="/">
                       <i className="bi bi-twitter"></i>
                     </Link>
-                    <Link to="https://www.linkedin.com/in/sundaramoorthy-velayutham-92697aa/">
+                    <Link to="https://www.linkedin.com/in/aishwarya-lk-03807914b/">
                       {" "}
                       <i className="bi bi-linkedin" target="_blank"></i>{" "}
                     </Link>
